@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeType>
+    <nss>0000002</nss>
+    <nom>Dupont</nom>
+    <prenom>Jean</prenom>
+    <adresse>
+        <Num>6</Num>
+        <Rue>campus des cezeaux</Rue>
+        <Ville>Aubiere</Ville>
+        <CodeP>63000</CodeP>
+    </adresse>
+</employeType>
